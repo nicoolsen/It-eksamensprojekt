@@ -3,8 +3,9 @@
     "",
     "\\css",
     "\\html",
+    "\\php",
     "\\server"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\html\\register.html",
   "PreviewInSolutionExplorer": false
 }

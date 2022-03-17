@@ -13,6 +13,66 @@
     padding-right: 20px;
 }
 
+.login {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+    
+.login_site {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top: 100px; 
+}
+
+.register_site {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.email {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 54px;
+    align-content: center;
+}
+
+.username {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 86px;
+    align-content: center;
+}
+
+.password {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 65px;
+    align-content: center;
+}
+
+.submitButton {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    align-content: center;
+}
+
+.container {
+background: #000;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
+}
+
 body {
     background-color: black;
 }
